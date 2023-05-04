@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tyson-dowd - born in Australia, lived and worked nearly 20 years around Asia, and based in Singapore now.
 - 👀 I’m interested in pretty much everything except perhaps sport, unless it's Martial arts.  
-- 🧑‍💻 I've been programming since 1982, have helped write compilers, founded a small.com in the 90s, contributed to the design of .NET, and ended up working all over different parts of Microsoft
+- 🧑‍💻 I've been programming since 1982, have helped write compilers, founded a small dotcom in the 90s, contributed to the design of .NET, and ended up working all over different parts of Microsoft
 - 🌱 I’m currently learning AI, and helping Microsoft customers integrate it with their Modern Work environment, and the way they work.
 - 💞️ I’m looking to collaborate on how we can transition 8 billion people to a new societal contract, using technology to lift humanity to a new era safely.
 - 📘 My practical philosophy follows the science fiction writing of Iain M Banks, in particular The Culture.
