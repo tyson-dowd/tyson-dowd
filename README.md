@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on how we can transition 8 billion people to a new societal contract, using technology to lift humanity to a new era safely.
 - 📘 My practical philosophy follows the science fiction writing of Iain M Banks, in particular The Culture.
 - 🌐 My personal philosophy is essentially non-dualism. I use the word my and personal and I out of convenience not accuracy. If that doesn't make sense to you keep searching.
-- 📫 How to reach me?   Well since you're here maybe you can raise an issue?   It'll probably get to me.   
+- 📫 How to reach me?   Well since you're here, I enabled discussions and issues. Also my LinkedIn account appears somewhere on my profile.
 
 <!---
 tyson-dowd/tyson-dowd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
